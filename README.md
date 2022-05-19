@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZinC20
--  Im in 0% learning about coding stuff
+-  I"m in 0% learning about coding stuff
 - 👀 I’m interested in UI&UX
 - 🌱 I’m currently learning CODING
 - 💞️ I’m looking to collaborate on ...
